@@ -1,7 +1,8 @@
 # SECCON Beginners Workshop(Reversing)
 
 ## ファイル構成
-Workshop14/
+```
+SECCON_Beginner_CTF_2025_Reversing_Workshop/
 ├── Phase1/
 │   ├── welcome
 │   ├── hidden_flag
@@ -24,6 +25,7 @@ Workshop14/
 ├── SECCON_Beginner_CTF_2025_Reversing_Workshop.pdf
 ├── SECCON_Beginner_CTF_2025_Reversing_Workshop.pptx
 └── README.md
+```
 
 ## 演習問題
 ### Phase 1
