@@ -3,7 +3,7 @@
 ## ファイル構成
 ```
 SECCON_Beginner_CTF_2025_Reversing_Workshop/
-├── Phase1/
+├── Challenges/
 │   ├── welcome
 │   ├── hidden_flag
 │   ├── base64_easy
@@ -16,19 +16,12 @@ SECCON_Beginner_CTF_2025_Reversing_Workshop/
 │   ├── xor_shift
 │   ├── ex_rot13_flag
 │   └── ex_hex_dump
-├── Phase2/
-│   ├── xor_checker
-│   ├── rusty_flag
-│   ├── simple_checker
-│   ├── validation_challenge
-│   └── MAFC
 ├── SECCON_Beginner_CTF_2025_Reversing_Workshop.pdf
 ├── SECCON_Beginner_CTF_2025_Reversing_Workshop.pptx
 └── README.md
 ```
 
 ## 演習問題
-### Phase 1
 
 | 問題名 | フラグ |
 | :--- | :--- |
@@ -44,13 +37,3 @@ SECCON_Beginner_CTF_2025_Reversing_Workshop/
 | xor_shift | ctf4b{XOR_stream_bitshift} |
 | ex_rot13_flag | ctf4b{rot13_is_classic} |
 | ex_hex_dump | ctf4b{h3x_t0_4sc11} |
-
-### Phase 2
-
-| 問題名 | フラグ |
-| :--- | :--- |
-| xor_checker | ctf4b{x0r_1s_n0t_s3cur3} |
-| rusty_flag | ctf4b{ru5t_15_h4rd_2_r3v} |
-| simple_checker | ctf4b{s1mpl3_gh1dr4_ch3ck} |
-| validation_challenge | ctf4b{mult1_st4g3_3ncrypt10n_r3v} |
-| MAFC | ctf4b{way_2_90!_y0u_suc3553d_2_ana1yz3_Ma1war3!!!} |
